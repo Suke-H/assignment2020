@@ -6,7 +6,7 @@
 1. 画像処理の基礎  
 2. 医用画像分類
 
-* ipynbファイル(1.はJupyter Notebook，2. はGoogle Colabratoryで作成)とPythonファイル，およびtexによるPDF文書を上げています．
+* ipynbファイル(1.はJupyter Notebook，2. はGoogle Colabratoryで作成)，Pythonファイル，環境構築の方法を書いたmdファイル，およびtexによるPDF文書を上げています．
 
 (4. 文字画像解析はまだ未完成です)
 

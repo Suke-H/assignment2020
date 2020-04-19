@@ -31,7 +31,7 @@ print("A @ B = \n{}".format(A * B))
 
 import cv2
 from matplotlib import pyplot as plt
-from IPython.display import Image, display
+# from IPython.display import Image, display
 
 # 画面表示のメソッド
 # jupyter_notebook用
